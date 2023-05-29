@@ -1,5 +1,7 @@
 # RedvisionOS
 > RedvisionOS - Distribution for home, office, games, based on Arch Linux with the linux-zen kernel and GNOME Shell. The perfect configuration out of the box, all the best for you.
+
+![alt text](https://github.com/Sparkware-Studio/redvision-os/blob/main/photo_2022-12-19_20-43-02.png)
 # What's new in RedvisionOS 1.3?
 <strong>• New interface</strong>  
 > We decided to change the system interface and make it more traditional.
